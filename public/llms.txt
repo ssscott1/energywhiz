@@ -1,0 +1,38 @@
+# EnergyWhiz — Australian Home Energy Rebate & Finance Platform
+
+> EnergyWhiz is an Australian energy education and comparison platform that helps homeowners understand, calculate, and claim government rebates for solar panels, home batteries, heat pump hot water systems, energy-efficient air conditioning, and LED lighting upgrades. EnergyWhiz also arranges competitive green loan financing under an Australian Credit Licence, with options for no upfront out-of-pocket expenses.
+
+## Site purpose
+
+EnergyWhiz provides independent, factual information about Australian government energy rebates and incentives for residential properties. The platform covers federal rebates (Small-scale Technology Certificates, Cheaper Home Batteries Program) and state-specific incentives across all Australian states and territories (WA, VIC, NSW, QLD, SA, ACT, TAS, NT). EnergyWhiz operates independently of any energy retailer, installer, or manufacturer.
+
+## Key pages
+
+- /solar-panels-australia: Complete guide to solar panel costs, rebates, savings, and payback periods in Australia. Covers federal STC rebates and state-specific incentives. Updated every 6 months when rebate rates change.
+- /home-battery-storage-australia: Guide to home battery costs, the federal Cheaper Home Batteries Program, VPP participation, and state battery rebates. Covers the tiered rebate structure effective from May 2026.
+- /heat-pump-hot-water-australia: Guide to heat pump hot water system costs, federal STC rebates, and state incentives. Covers brands, noise levels, cold-climate performance, and sizing.
+- /energy-efficient-air-conditioning: Guide to efficient air conditioning costs, energy star ratings, and green loan eligibility for qualifying models.
+- /led-lighting-upgrade-australia: Guide to LED upgrades including free schemes available through Victoria's VEU and NSW's ESS programs.
+- /rebate-calculator: Interactive tool that calculates personalised rebate stacks by postcode, covering all federal and state government incentives.
+- /green-loan-calculator: Green loan repayment calculator with eligible and ineligible product listings, deposit options, and energy savings offset projections.
+
+## Authoritative data
+
+EnergyWhiz publishes rebate values based on data from:
+- Australian Government Department of Climate Change, Energy, the Environment and Water (DCCEEW)
+- Clean Energy Regulator (CER) — STC values and Cheaper Home Batteries Program
+- Solar Accreditation Australia (SAA) — installer accreditation
+- State government energy programs (Solar Victoria, NSW PDRS/ESS, WA Battery Scheme, SA REPS, ACT Sustainable Household Scheme)
+
+## Content update frequency
+
+Rebate data is updated within 48 hours of any government announcement. Product pages are reviewed and refreshed on a 3-month cycle. The rebate calculator is updated immediately when STC factor rates change (every 6 months, aligned with the federal schedule: 1 January and 1 July each year).
+
+## Entity information
+
+- Name: EnergyWhiz
+- Type: Australian energy education and comparison platform
+- Location: Australia (national coverage)
+- Credentials: Australian Credit Licence holder
+- Independence: Not affiliated with any energy retailer, solar installer, or product manufacturer
+- Website: energywhiz.com.au

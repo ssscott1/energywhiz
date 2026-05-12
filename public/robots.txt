@@ -1,0 +1,64 @@
+# EnergyWhiz robots.txt
+# Explicitly allows all major AI search crawlers for maximum AI search visibility
+
+# Standard search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# AI Search Crawlers — EXPLICITLY ALLOWED
+# These must not be blocked for AI search citation
+
+# OpenAI / ChatGPT
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+# Google Gemini / AI Overviews
+User-agent: Google-Extended
+Allow: /
+
+# Anthropic / Claude
+User-agent: ClaudeBot
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+# Microsoft Copilot
+User-agent: Applebot-Extended
+Allow: /
+
+# Meta AI
+User-agent: FacebookBot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+# Common AI research crawlers
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# Default — allow all
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://energywhiz.com.au/sitemap.xml
+
+# LLMs.txt — AI-readable site description
+# Available at: https://energywhiz.com.au/llms.txt
